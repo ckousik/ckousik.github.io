@@ -17,6 +17,7 @@ more accurately captured the full scope of the project.The Webhooktunnel reposit
 ### Tasks Completed:
 - [x] Main webhooktunnel [project](https://github.com/taskcluster/webhooktunnel).
 - [x] [Taskcluster Auth integration](https://github.com/taskcluster/taskcluster-auth/pull/107) 
+- [x] Deployment to docker cloud
 - [x] [taskcluster-worker integration](https://github.com/taskcluster/taskcluster-worker/pull/301)
 - [x] [docker-worker integration](https://github.com/taskcluster/docker-worker/pull/304) [Stretch Goal]
 - [ ] generic-worker integration [Stretch Goal]
